@@ -1,0 +1,11 @@
+node_modules/
+.vscode
+typechain/
+env.json
+**/.DS_Store
+build
+.idea
+yarn.lock
+#Hardhat files
+cache
+artifacts
